@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "fossil",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/fossil-watch-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "sunrise",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/fossil-watch-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "luxury",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/fossil-watch-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "royalty",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/fossil-watch-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "tissot",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/fossil-watch-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "casio",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/fossil-watch-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "rolex",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/fossil-watch-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "seiko",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/fossil-watch-8.jpg" } } }
+      }
+    }
+  ]
+}
